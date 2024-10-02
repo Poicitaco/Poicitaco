@@ -1,3 +1,6 @@
+![Header](./github-header-image.png)
+
+
 <h1 align="center">Hi 👋, I'm Hoàng Tiến Đạt</h1>
 <h3 align="center">👋 Hi there! I'm a Computer Science student with a strong passion for Artificial Intelligence. I love exploring the limitless possibilities of AI</h3>
 <img align="right" width="250" src="https://i.gifer.com/XOsX.gif">
