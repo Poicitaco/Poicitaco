@@ -41,11 +41,11 @@
 </p>
 
 <!-- Move GitHub Stats and Profile Details here -->
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poicitaco&theme=jolly" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poicitaco&theme=jolly" alt="Profile Details" />
 </p>
 
