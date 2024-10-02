@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoàng Tiến Đạt</h1>
 <h3 align="center">👋 Hi there! I'm a Computer Science student with a strong passion for Artificial Intelligence. I love exploring the limitless possibilities of AI</h3>
-<img align="right" width="250" src="https://i.gifer.com/W9db.gif">
+<img align="right" width="250" src="https://i.gifer.com/XOsX.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=poicitaco&label=Profile%20views&color=0e75b6&style=flat" alt="poicitaco" /> 
 </p>
