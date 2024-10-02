@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Coding GIF" height = "200"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Hoàng Tiến Đạt</h1>
 <h3 align="center">👋 Hi there! I'm a Computer Science student with a strong passion for Artificial Intelligence. I love exploring the limitless possibilities of AI</h3>
 
