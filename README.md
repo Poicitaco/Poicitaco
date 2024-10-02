@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=poicitaco&label=Profile%20views&color=0e75b6&style=flat" alt="poicitaco" /> 
 </p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poicitaco&theme=default" alt="GitHub Stats" />
-</p>
-
 - 🌱 I’m currently learning **tensorflow, pytorch**
 
 - 📫 How to reach me **itentad.work@gmail.com**
@@ -20,10 +16,6 @@
   <a href="https://twitter.com/poicitaco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poicitaco" height="30" width="40" /></a>
   <a href="https://fb.com/ratinfor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratinfor" height="30" width="40" /></a>
   <a href="https://instagram.com/itentad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itentad" height="30" width="40" /></a>
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poicitaco&theme=swift" alt="Profile Details" />
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,6 +38,15 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
+</p>
+
+<!-- Move GitHub Stats and Profile Details here -->
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poicitaco&theme=jolly" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poicitaco&theme=jolly" alt="Profile Details" />
 </p>
 
 <h3 align="left">Support:</h3>
