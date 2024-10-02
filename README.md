@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=poicitaco&show_icons=true&locale=vi&layout=compact"
 
-alt="poicitaco" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=poicitaco&show_icons=true&locale=vi" alt="poicitaco" /></p>
+alt="poicitaco" /></p> <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=poicitaco&show_icons=true&locale=vi" alt="poicitaco"></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=poicitaco&" alt="poicitaco" /></p>
