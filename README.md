@@ -18,14 +18,17 @@
 
 ## 🧠 About Me
 
-- 🎓 3rd-year **Data Science & AI** student at **Phenikaa University**.
-- 🔬 Researching **Computer Vision** (Face Anonymization) and **Quantum Machine Learning**.
-- 🌱 Advanced learning in **PyTorch**, **TensorFlow**, and **AI Agents**.
-- 🌍 Based in **Hanoi / Vietnam**.
+- 🎓 3rd-year **Data Science & AI** student at **Phenikaa University**
+- 🔬 Researching **Computer Vision** (Face Anonymization) and **Quantum Machine Learning**
+- 🌱 Advanced learning in **PyTorch**, **TensorFlow**, and **AI Agents**
+- 🌍 Based in **Hanoi / Vietnam**
 - 📫 Reach me at: **itentad.work@gmail.com**
 - ⚡ Fun fact: *I think I'm handsome* 😄 (Wait, I *know* I am!)
 
 ---
+
+## 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poicitaco/Poicitaco/output/github-contribution-grid-snake-dark.svg" />
@@ -53,23 +56,17 @@
 
 | Project | Description | Tech Stack |
 |:---|:---|:---|
-| 🛡️ **Privacy Cam** | Reversible face anonymization system based on **Diffusion Models**. | PyTorch, Diffusers |
-| 🏥 **AI Medical Agent** | Intelligent chatbot providing pharmaceutical support and consultations. | AI Agents, Python |
-| ⚽ **Sanuxi Manager** | Football team management system for students from Thai Binh. | Python, Data Processing |
-| 📈 **Crypto Bot** | Telegram bot for tracking and trading micro-transactions. | Node.js, API |
+| 🛡️ **Privacy Cam** | Reversible face anonymization system based on **Diffusion Models** | PyTorch, Diffusers |
+| 🏥 **AI Medical Agent** | Intelligent chatbot providing pharmaceutical support and consultations | AI Agents, Python |
+| ⚽ **Sanuxi Manager** | Football team management system for students from Thai Binh | Python, Data Processing |
+| 📈 **Crypto Bot** | Telegram bot for tracking and trading micro-transactions | Node.js, API |
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poicitaco&theme=jolly" height="170" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poicitaco&layout=compact&theme=jolly" height="170" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Poicitaco&theme=jolly&hide_border=false" height="170" alt="Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poicitaco&theme=jolly" height="170" alt="Details" />
+  <img src="https://gist.githubusercontent.com/Poicitaco/b96dc1fec1649c3bb306d3353e813362/raw/metrics.svg" alt="Metrics" />
 </p>
 
 ---
@@ -91,14 +88,13 @@
 ---
 
 <p align="center">
-  <br>
   <img src="https://raw.githubusercontent.com/Poicitaco/Poicitaco/main/banner.png" alt="Footer Banner" width="100%" />
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+Agent+Architecture+%7C+Computer+Vision;Exploring+the+quantum+leap+of+Intelligence;Handsome+by+Design+%7C+Data+by+Profession;Let's+build+something+intelligent+together!" alt="Footer SVG" />
-  <br>
+  <br><br>
   <a href="https://www.buymeacoffee.com/poicitaco" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" style="margin-top: 10px;" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" />
   </a>
-  <br>
-  <font size="2" color="gray">© 2025 Hoàng Tiến Đạt (Itentad). All data handsome.</font>
+  <br><br>
+  <sub>© 2025 Hoàng Tiến Đạt (Itentad). All data handsome.</sub>
 </p>
