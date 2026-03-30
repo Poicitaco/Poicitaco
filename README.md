@@ -66,7 +66,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="![Metrics](https://raw.githubusercontent.com/Poicitaco/Poicitaco/main/metrics.svg)" alt="Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poicitaco&theme=jolly" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Poicitaco&theme=jolly" height="170"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Poicitaco&theme=jolly&hide_border=false" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poicitaco&theme=jolly" height="170"/>
 </p>
 
 ---
