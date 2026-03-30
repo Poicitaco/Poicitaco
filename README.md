@@ -1,10 +1,12 @@
-![Header](./banner.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Poicitaco/Poicitaco/main/banner.png" alt="Header" />
+</p>
 
-<h1 align="center">Hi 👋, I'm Hoàng Tiến Đạt</h1>
+<h1 align="center">Hi 👋, I'm Hoàng Tiến Đạt (Itentad)</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;AI+%26+Deep+Learning+Enthusiast+%F0%9F%A4%96;Exploring+PyTorch+%26+TensorFlow+%F0%9F%94%A5;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Data+Science+%26+AI+Student+%F0%9F%8E%93;AI+Enthusiast+%F0%9F%A4%96;Exploring+Diffusers+%26+Quantum+ML;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,39 +18,32 @@
 
 ## 🧠 About Me
 
-- 🎓 CS Student with a strong passion for **Artificial Intelligence**
-- 🌱 Currently learning **TensorFlow** & **PyTorch**
-- 🔭 Love exploring the limitless possibilities of **AI & Deep Learning**
-- 🌍 Based in **Hải Phòng, Vietnam**
-- 📫 Reach me at **itentad.work@gmail.com**
-- ⚡ Fun fact: *I think I'm handsome* 😄
+- 🎓 3rd-year **Data Science & AI** student at **Phenikaa University**.
+- 🔬 Researching **Computer Vision** (Face Anonymization) and **Quantum Machine Learning**.
+- 🌱 Advanced learning in **PyTorch**, **TensorFlow**, and **AI Agents**.
+- 🌍 Based in **Hanoi / Vietnam**.
+- 📫 Reach me at: **itentad.work@gmail.com**
+- ⚡ Fun fact: *I think I'm handsome* 😄 (Wait, I *know* I am!)
 
 ---
-
-## 🔗 Connect with me
-
-<p align="left">
-  <a href="https://twitter.com/poicitaco" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poicitaco" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/ratinfor" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ratinfor" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/itentad" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itentad" height="30" width="40" />
-  </a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poicitaco/Poicitaco/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poicitaco/Poicitaco/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Poicitaco/Poicitaco/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack & Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -56,34 +51,25 @@
 
 ## 🚀 Featured Projects
 
-> 🔧 *Pinning my best work here — stay tuned!*
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🤖 Coming soon... | AI / Deep Learning project | PyTorch |
-| 📊 Coming soon... | Data analysis project | Pandas, Python |
-| 🌐 Coming soon... | Web project | HTML, CSS |
-
-<!-- Tip: Replace the table above with your real projects! -->
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🛡️ **Privacy Cam** | Reversible face anonymization system based on **Diffusion Models**. | PyTorch, Diffusers |
+| 🏥 **AI Medical Agent** | Intelligent chatbot providing pharmaceutical support and consultations. | AI Agents, Python |
+| ⚽ **Sanuxi Manager** | Football team management system for students from Thai Binh. | Python, Data Processing |
+| 📈 **Crypto Bot** | Telegram bot for tracking and trading micro-transactions. | Node.js, API |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poicitaco&theme=jolly" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Poicitaco&theme=jolly" height="170" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poicitaco&layout=compact&theme=jolly" height="170" alt="Top Langs" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Poicitaco&theme=jolly&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Poicitaco&layout=compact&theme=jolly" alt="Top Languages" />
-</p>
-
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poicitaco&theme=jolly" alt="Profile Details" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Poicitaco&theme=jolly&hide_border=false" height="170" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Poicitaco&theme=jolly" height="170" alt="Details" />
 </p>
 
 ---
@@ -94,12 +80,25 @@
 
 ---
 
-## ☕ Support
+## 🔗 Connect with me
 
-<p>
-  <a href="https://www.buymeacoffee.com/poicitaco">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="poicitaco" />
-  </a>
+<p align="left">
+  <a href="https://www.facebook.com/Poicitaco/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25"/></a>
+  <a href="https://instagram.com/poicitaco" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25"/></a>
+  <a href="https://twitter.com/poicitaco" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" height="25"/></a>
 </p>
 
-<br><br>
+---
+
+<p align="center">
+  <br>
+  <img src="https://raw.githubusercontent.com/Poicitaco/Poicitaco/main/banner.png" alt="Footer Banner" width="100%" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=EE4C2C&center=true&vCenter=true&width=600&lines=Data+Science+%7C+AI+Agent+Architecture+%7C+Computer+Vision;Exploring+the+quantum+leap+of+Intelligence;Handsome+by+Design+%7C+Data+by+Profession;Let's+build+something+intelligent+together!" alt="Footer SVG" />
+  <br>
+  <a href="https://www.buymeacoffee.com/poicitaco" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40" width="170" style="margin-top: 10px;" />
+  </a>
+  <br>
+  <font size="2" color="gray">© 2025 Hoàng Tiến Đạt (Itentad). All data handsome.</font>
+</p>
