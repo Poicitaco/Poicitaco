@@ -66,7 +66,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://gist.githubusercontent.com/Poicitaco/b96dc1fec1649c3bb306d3353e813362/raw/metrics.svg" alt="Metrics" />
+  <img src="![Metrics](https://raw.githubusercontent.com/Poicitaco/Poicitaco/main/metrics.svg)" alt="Metrics" />
 </p>
 
 ---
